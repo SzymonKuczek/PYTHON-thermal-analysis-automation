@@ -1,0 +1,29 @@
+# --- Python ---
+__pycache__/
+*.py[cod]
+*$py.class
+.venv/
+env/
+venv/
+*.spec
+
+# --- Excel (pliki tymczasowe) ---
+~$*.xlsx
+~$*.xls
+
+# --- LaTeX (pliki tymczasowe przy kompilacji raportu) ---
+*.aux
+*.fdb_latexmk
+*.fls
+*.log
+*.out
+*.synctex.gz
+*.toc
+*.pdf
+
+# --- IDE i System ---
+.idea/
+.vscode/
+*.swp
+.DS_Store
+Thumbs.db
