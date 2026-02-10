@@ -64,7 +64,7 @@ Rapid temperature drop across the entire structure, high risk of freezing.
 
 ## Clone the repository:
 
-`git clone \[https://github.com/SzymonKuczek/Thermal\_analysis\_automation.git](https://github.com/SzymonKuczek/Thermal\_analysis\_automation.git)`
+`git clone [https://github.com/SzymonKuczek/Thermal\_analysis\_automation.git]`
 
 `cd Thermal\_analysis\_automation`
 
