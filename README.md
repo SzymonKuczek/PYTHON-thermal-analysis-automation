@@ -64,9 +64,9 @@ Rapid temperature drop across the entire structure, high risk of freezing.
 
 ## Clone the repository:
 
-`git clone \[https://github.com/SzymonKuczek/PYTHON-thermal-analysis-automation.git](https://github.com/SzymonKuczek/PYTHON-thermal-analysis-automation.git)`
+`git clone \[https://github.com/SzymonKuczek/PYTHON\_thermal\_analysis\_automation.git](https://github.com/SzymonKuczek/PYTHON\_thermal\_analysis\_automation.git)`
 
-`cd PYTHON-thermal-analysis-automation`
+`cd PYTHON\_thermal\_analysis\_automation`
 
 
 
