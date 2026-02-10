@@ -1,4 +1,4 @@
-\# Thermal Bridge Automation Tool 🏗️🌡️
+## Thermal Bridge Automation Tool 🏗️🌡️
 
 
 
@@ -6,7 +6,7 @@ An engineering automation tool written in Python designed to calculate the U-val
 
 
 
-\## 🚀 Key Features
+## 🚀 Key Features
 
 \- \*\*Symbolic Calculation:\*\* Uses `SymPy` to dynamically derive physical equations for any number of layers, eliminating manual formula errors.
 
@@ -18,7 +18,7 @@ An engineering automation tool written in Python designed to calculate the U-val
 
 
 
-\## 🛠️ Tech Stack
+## 🛠️ Tech Stack
 
 \- \*\*Python 3.10+\*\*
 
@@ -30,7 +30,7 @@ An engineering automation tool written in Python designed to calculate the U-val
 
 
 
-\## 📂 Project Structure
+## 📂 Project Structure
 
 
 
@@ -46,7 +46,7 @@ An engineering automation tool written in Python designed to calculate the U-val
 
 
 
-\## 📊 Example Results
+## 📊 Example Results
 
 1\. Passive House Standard (U = 0.12 W/m²K)
 
@@ -60,7 +60,7 @@ Rapid temperature drop across the entire structure, high risk of freezing.
 
 
 
-\## 🔧 How to Run
+## 🔧 How to Run
 
 Clone the repository:
 
@@ -90,7 +90,7 @@ python analiza\_cieplna\_przegrody.py
 
 
 
-\## 🚀 Future Improvements
+## 🚀 Future Improvements
 
 \[ ] Implementation of Glaser Method (Dew point calculation) to predict interstitial condensation risk.
 
@@ -104,7 +104,7 @@ python analiza\_cieplna\_przegrody.py
 
 
 
-\## 📄 Documentation
+## 📄 Documentation
 
 📄🇵🇱 \[PL] \[Download the full technical report in Polish (PDF)](docs/Raport\_PYTHON\_AGH\_PL.pdf)
 
@@ -112,7 +112,7 @@ python analiza\_cieplna\_przegrody.py
 
 
 
-\## 👨‍💻 Author
+## 👨‍💻 Author
 
 Szymon Kuczek Energy \& Civil Engineering Student at AGH University of Science and Technology.
 
