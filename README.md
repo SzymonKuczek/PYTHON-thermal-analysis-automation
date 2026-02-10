@@ -62,7 +62,7 @@ Rapid temperature drop across the entire structure, high risk of freezing.
 
 ## 🔧 How to Run
 
-Clone the repository:
+# Clone the repository:
 
 git clone \[https://github.com/SzymonKuczek/PYTHON-thermal-analysis-automation.git](https://github.com/SzymonKuczek/PYTHON-thermal-analysis-automation.git)
 
@@ -70,13 +70,13 @@ cd thermal-analysis-automation
 
 
 
-Install dependencies:
+# Install dependencies:
 
 pip install -r requirements.txt
 
 
 
-Generate example data (Optional): This script creates sample Excel files in the data/ directory.
+# Generate example data (Optional): This script creates sample Excel files in the data/ directory.
 
 cd src
 
@@ -84,7 +84,7 @@ python generator\_przykladow.py
 
 
 
-Run the analysis: This script processes all Excel files in data/ and saves charts to images/.
+# Run the analysis: This script processes all Excel files in data/ and saves charts to images/.
 
 python analiza\_cieplna\_przegrody.py
 
